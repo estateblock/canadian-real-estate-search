@@ -1,2 +1,23 @@
-# canadian-real-estate-search
-An independent search engine for Vancouver, BC real estate listings with price trends, neighbourhood insights, and market analytics.
+
+# Canadian Real Estate Search Engine - Estateblock.com
+
+This project provides an independent, data-driven search engine for Canadian real estate listings.
+
+It allows users to explore:
+- Real estate listings across Canada
+- Price trends by city and neighbourhood
+- Market insights for buyers, sellers, and investors
+
+🔗 **Live Search Engine:**  
+https://www.estateblock.com
+
+## About the Data
+The platform aggregates publicly available real estate data and presents it in a searchable, user-friendly format for market research and analysis.
+
+## Use Cases
+- Home buyers researching markets
+- Investors analyzing pricing trends
+- Realtors comparing neighbourhood data
+
+## License
+This repository is provided for informational and educational purposes.
