@@ -1,6 +1,6 @@
 
 # Canadian Real Estate Search Engine - Estateblock.com
-
+https://estateblock.github.io/canadian-real-estate-search/
 This project provides an independent, data-driven search engine for Canadian real estate listings.
 
 It allows users to explore:
